@@ -10,7 +10,7 @@
 
 ## Description of their source of data
 	
-  The data will contain info about the flight like: Day of the Week, Day of the Month, Month, Airline Carrier Code, Operating Airline, Origin Airport, Destination Airport, Departure Time, ArrDelay.
+  The data will contain info about the flight like: Day of the Week, Day of the Month, Airline Carrier Code, Operating Airline, Origin Airport, Destination Airport, Departure Time, ArrDelay.
 
 ## Questions they hope to answer with the data
 	
@@ -25,3 +25,7 @@ Square:
 Circle:
 
 Triangle: 
+
+## Communication protocols:
+
+Our team will be communicating through Slack and working on the same repositoy on github. Every team member also has their own branch in order to make changes without affecting the main branch. Before every pull request another team member should let the others know before committing the pull to the main branch.
