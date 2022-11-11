@@ -10,7 +10,7 @@
 
 ## Description of their source of data
 	
-  The data will contain info about the flight like: Day of the Week, Day of the Month, Airline Carrier Code, Operating Airline, Origin Airport, Destination Airport, Departure Time, ArrDelay.
+  The data will contain info about the flight like: Day of the Week, Day of the Month, Month, Airline Carrier Code, Operating Airline, Origin Airport, Destination Airport, Departure Time, ArrDelay.
 
 ## Questions they hope to answer with the data
 	
