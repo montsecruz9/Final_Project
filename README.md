@@ -18,13 +18,13 @@
 
 ## Rolls
 
-X:
+X: Montse Cruz
 
-Square:
+Square: Paolo Zambrano
 
-Circle:
+Circle: Luis Canas
 
-Triangle: 
+Triangle: Alejandro Rabelo
 
 ## Communication protocols:
 
