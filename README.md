@@ -15,3 +15,10 @@
 ## Questions they hope to answer with the data
 	
   The certainty if the flight they will take, will be “On Time” or “Delay”.
+
+## Rolls
+
+X:
+Square:
+Circle:
+Triangle: 
