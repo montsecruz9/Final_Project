@@ -1,1 +1,1 @@
-# Final_Project
+Code for the Machine Learning model
