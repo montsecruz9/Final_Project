@@ -2,7 +2,7 @@
 
 ## Selected Topic
 	
-  Flight Delay Prediction
+  Flight Status Prediction
 
 ## Reason why they selected their topic
 	
