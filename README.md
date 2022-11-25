@@ -40,7 +40,7 @@ Our team will be communicating through Slack and working on the same repository 
 
 ## Outline of the project:
 
-### Database cleaning:
+### Database:
 
 #### After finding the database we wanted to work on, we where required to clean its columns and values in order to be able to use it for our analysis. Since our data was divided in different documents, we first uploaded everything into an S3 bucket on AWS. This way all team members will have access to them and it will make it posible to load our data into a Jupyter Notebook to clean the data:
 
@@ -57,6 +57,12 @@ Our team will be communicating through Slack and working on the same repository 
 
 
 
+
+## Machine Learning Model:
+
+
+
+## Dashboard:
 
 
 
