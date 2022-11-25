@@ -60,13 +60,14 @@ Our team will be communicating through Slack and working on the same repository 
 
 ## Machine Learning Model:
 
-✓ Description of preliminary data
-preprocessing ✓ Description of preliminary feature
-engineering and preliminary feature
-selection, including their decision-making
-process ✓ Description of how data was split into
-training and testing sets ✓ Explanation of model choice, including
-limitations and benefits
+### Description of preliminary data preprocessing
+
+### Description of preliminary feature engineering and preliminary feature selection, including their decision-making process 
+
+### Description of how data was split into training and testing sets 
+
+### Explanation of model choice, including limitations and benefits
+
 
 ## Dashboard:
 
@@ -77,7 +78,15 @@ limitations and benefits
 
 ### Tools:
 
+After going over our data, we decided that the best way to display our visualizations is using Tableau. Some ideas of possible visualizations we have right now are: 
 
+1.	Map with the locations of the airports with the most delays.
+2.	Heatmap of the days with the most delays.
+3.	Bar graph / heatmap with the day of the week with the most delays.
+4.	Bar graph with the hours of the day with the most delays.
+5.	Shape with the airlines with the most delays similar to the following:
+
+<img width="215" alt="image" src="https://user-images.githubusercontent.com/108498940/203885440-b462da1e-4ec0-48d9-b080-7c8b0da2b5a5.png">
 
 ### Interactive elements:
 
