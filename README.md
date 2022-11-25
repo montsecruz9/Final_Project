@@ -42,18 +42,18 @@ Our team will be communicating through Slack and working on the same repository 
 
 ### Database cleaning:
 
-After finding the database we wanted to work on, we where required to clean its columns and values in order to be able to use it for our analysis. Since our data was divided in different documents, we first uploaded everything into an S3 bucket on AWS. This way all team members will have access to them and it will make it posible to load our data into a Jupyter Notebook to clean the data:
+#### After finding the database we wanted to work on, we where required to clean its columns and values in order to be able to use it for our analysis. Since our data was divided in different documents, we first uploaded everything into an S3 bucket on AWS. This way all team members will have access to them and it will make it posible to load our data into a Jupyter Notebook to clean the data:
 
 ![65658928-9987-450d-b9ec-3ce94ba675ea](https://user-images.githubusercontent.com/108498940/203883553-f1b7ff22-5d54-4aa3-ba7f-8e771a50e90c.jpg)
 
-Once this was done, we where able to import our data into a Jupyter Notebook to start joining all databases using append:
+#### Once this was done, we where able to import our data into a Jupyter Notebook to start joining all databases using append:
 
 ![b0a900dc-c66d-4291-bc40-c6db2722f856](https://user-images.githubusercontent.com/108498940/203883877-f573924d-fc59-4ea4-a89a-d7db55d61c27.jpg)
 
 ![08ebba1f-646f-499d-a08c-74b5a4b320c2](https://user-images.githubusercontent.com/108498940/203883926-2084fbf1-55ab-48ad-88c8-09b4f665f4ba.jpg)
 
 
-Once all our databases where joined together we cleaned the data on SQL:
+#### Once all our databases where joined together we cleaned the data on SQL:
 
 
 
