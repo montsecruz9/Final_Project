@@ -30,9 +30,11 @@ Triangle: Alejandro Rabelo
 ## Technology
 
 - Data Storage: AWS's S3
+- Appending: Jupyter notebook
 - ETL Process: Python with Google Collab
 - Deep Learning model: Scikit learn & Python in Google Collab
 - DashBoard: FlaskApp
+
 
 ## Communication protocols:
 
