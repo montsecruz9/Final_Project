@@ -78,7 +78,8 @@ Our team will be communicating through Slack and working on the same repository 
 
 ### Storyboard on Google Slides:
 
-
+Link:
+https://docs.google.com/presentation/d/1BnbyJIT9PjGceGqDGM8eVvr3ElUZdQn8zLn7UIdRBl8/edit?usp=sharing
 
 ### Tools:
 
