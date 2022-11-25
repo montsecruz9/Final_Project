@@ -4,13 +4,13 @@
 	
   Flight Delay Prediction
 
-## Reason why they selected their topic
+## Reason why we selected their topic
 	
   We chose this topic because we want to know what attributes are the ones that are the most important to generate a delay in a certain flight. In that way, we will create a web page for users that will fill attributes and give them a forecast with machine learning if the flight will be “On Time” or “Delayed”
 
-## Description of their source of data
+## Description of the source of data
 	
-  Data was extracted from the Marketing Carrier On-Time Performance. Data contains information about flights like: Day of the Week, Day of the Month, Airline Carrier Code, Operating Airline, Origin Airport, Destination Airport, Departure Time, ArrDelay. Data will be stored in AWS's S3. 
+  Data was extracted from the Marketing Carrier On-Time Performance. Data contains information about flights like: Day of the Week, Day of the Month, Airline Carrier Code, Operating Airline, Origin Airport, Destination Airport, Departure Time, ArrDelay. Data will be stored in AWS's S3, then we will append it, clean it and analyse it. 
 
 ## Questions they hope to answer with the data
 	
