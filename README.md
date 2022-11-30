@@ -48,8 +48,6 @@ Our team will be communicating through Slack and working on the same repository 
 
 #### Once this was done, we where able to import our data into a Jupyter Notebook to start joining all databases using concatenate:
 
-![b0a900dc-c66d-4291-bc40-c6db2722f856](https://user-images.githubusercontent.com/108498940/203883877-f573924d-fc59-4ea4-a89a-d7db55d61c27.jpg)
-
 ![08ebba1f-646f-499d-a08c-74b5a4b320c2](https://user-images.githubusercontent.com/108498940/203883926-2084fbf1-55ab-48ad-88c8-09b4f665f4ba.jpg)
 
 #### Concatanate:
