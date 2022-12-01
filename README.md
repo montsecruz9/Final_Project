@@ -52,7 +52,7 @@ Triangle: Alejandro Rabelo
 ![a15b8f2e-467d-40c7-88b2-37f1f34e242c](https://user-images.githubusercontent.com/108498940/203888358-4f0d954f-5134-4fb6-b134-e7d4bfc2ed58.jpg)
 
 
-#### Once all our databases where joined together we cleaned the data on SQL. We eliminated columns that where not needed for our analysis, worked with NaNs and changed the :
+#### Once all our databases where joined together we cleaned the data using pandas. We deleted columns that where not needed for our analysis, worked with NaNs and changed the :
 
 
 
