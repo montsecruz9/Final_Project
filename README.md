@@ -76,6 +76,9 @@ Triangle: Alejandro Rabelo
 Link:
 https://docs.google.com/presentation/d/1BnbyJIT9PjGceGqDGM8eVvr3ElUZdQn8zLn7UIdRBl8/edit?usp=sharing
 
+### Dashboard on Tableau Public:
+https://public.tableau.com/shared/B3ZTZZN7S?:display_count=n&:origin=viz_share_link
+
 ### Tools:
 
 After going over our data, we decided that the best way to display our visualizations is using Tableau Public Storys. This is an interactive and easy way to visualize our data and interact with it. 
