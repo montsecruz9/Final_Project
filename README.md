@@ -74,7 +74,7 @@ Triangle: Alejandro Rabelo
 ### Storyboard on Google Slides:
 
 Link:
-https://docs.google.com/presentation/d/1BnbyJIT9PjGceGqDGM8eVvr3ElUZdQn8zLn7UIdRBl8/edit?usp=sharing
+https://docs.google.com/presentation/d/16Z3Wulr2pZyQmhmy__KBiV7Zt9pVuMMYErxm2aR9sDc/edit#slide=id.g1a2b0531266_0_39
 
 ### Dashboard on Tableau Public:
 https://public.tableau.com/shared/B3ZTZZN7S?:display_count=n&:origin=viz_share_link
