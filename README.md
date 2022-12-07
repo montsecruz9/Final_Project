@@ -75,11 +75,33 @@ After going over our data, we decided that the best way to display our visualiza
 
 Link to Dashboard on Tableau Public:
 
-https://public.tableau.com/shared/B3ZTZZN7S?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/shared/YKTTJT8R8?:display_count=n&:origin=viz_share_link
 
 
 ### Interactive elements:
 
+Months with the most minutes delay:
+
+![ac1be28d-b802-4cab-9367-49dfb2b24944](https://user-images.githubusercontent.com/108498940/206078738-3b2bbc8e-f6bd-4332-a7ab-70d2c8f64722.jpg)
+
+Airlines with the most delays:
+
+![f5fc7426-d69e-4250-ab86-caf587fa72ec](https://user-images.githubusercontent.com/108498940/206078789-7a685622-f82d-4f2e-b734-86c8d22bc2ec.jpg)
+
+Day of the week with most delay:
+
+![ea950d06-67fa-4a73-8e9c-720f81e36f58](https://user-images.githubusercontent.com/108498940/206078878-879f2335-73e7-4e57-9a11-00595eb70b56.jpg)
+
+Orignins with most delays:
+
+![0140753a-0446-4acf-8223-31e37c26e799](https://user-images.githubusercontent.com/108498940/206078974-583b4fdc-e4d3-4be9-8c8b-0b2374f9a06b.jpg)
+
+Destinations with most delay map:
+
+![b6ba2277-a137-4a96-a7c9-cb1d7e181406](https://user-images.githubusercontent.com/108498940/206079135-c46ca67a-c42a-4d74-ab85-741011b4c5e6.jpg)
+
+
+## Results/Conclusions
 
 
 ## Final presentation:
