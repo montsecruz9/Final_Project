@@ -15,7 +15,13 @@
 ## Questions they hope to answer with the data
 	
   Will a flight be “On Time” or “Delayed”?
+  
   Which attributes are the ones that mostly affect a flight's status?
+  
+  What is the probability that your flight will be delayed? 
+  
+  How do airlines compare between each other? 
+
 
 ## Roles
 
@@ -29,11 +35,11 @@ Triangle: Alejandro Rabelo
 
 ## Technology
 
-- Data Storage: AWS's S3
-- ETL Process: Python with Google Collab
+- AWS’s S3
+- ETL Process: Python with Jupyter Notebook
 - Deep Learning model: Scikit learn & Python in Google Collab
-- DashBoard: FlaskApp
-
+- DashBoard: Tableau
+- Heroku 
 
 ## Outline of the project:
 
@@ -73,7 +79,6 @@ Triangle: Alejandro Rabelo
 
 ### Storyboard on Google Slides:
 
-Link:
 https://docs.google.com/presentation/d/16Z3Wulr2pZyQmhmy__KBiV7Zt9pVuMMYErxm2aR9sDc/edit#slide=id.g1a2b0531266_0_39
 
 ### Dashboard on Tableau Public:
