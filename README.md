@@ -49,7 +49,7 @@ https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022
 
 ## ETL:
 
-After choosing our topic and finding a database we wanted to work on, it was time to begin the cleaning process in order to use it. Since our data was divided into different documents we where required to join them together to have all the data on one same document. To do this we first uploaded all data into an S3 Bucket on AWS. By doing so all team members had access to the data and we where able to merge the databases together using Jupyter Notebook. Once merged, we where able to select only the variables that where usefull for our analysis, create a machine learning model and create visualizations on Tableau public.
+After choosing our topic and finding a database we wanted to work on, it was time to begin the cleaning process in order to use it. Since our data was divided into different csv files we where required to join them together to have all the data on one same file. To do this we first uploaded all data into an S3 Bucket on AWS. By doing so all team members had access to the data and we where able to merge the databases together using Jupyter Notebook. Once merged, we where able to select only the variables that where usefull for our analysis, create a machine learning model and create visualizations on Tableau public.
 
 ![65658928-9987-450d-b9ec-3ce94ba675ea](https://user-images.githubusercontent.com/108498940/203883553-f1b7ff22-5d54-4aa3-ba7f-8e771a50e90c.jpg)
 
