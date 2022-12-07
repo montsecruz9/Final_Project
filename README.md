@@ -49,22 +49,13 @@ https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022
 
 ## ETL:
 
-After choosing our topic and finding a database we wanted to work on, it was time to begin the cleaning process in order to use it. Since our data was divided into different documents we where required to join them together to have all the data on one same document. To do this we first uploaded all data into an S3 Bucket on AWS. By doing so all team members had access to the data and we where able to merge the databases together using Jupyter Notebook. Once merged, we where able to select only the variables that where usefull for our analysis.
+After choosing our topic and finding a database we wanted to work on, it was time to begin the cleaning process in order to use it. Since our data was divided into different documents we where required to join them together to have all the data on one same document. To do this we first uploaded all data into an S3 Bucket on AWS. By doing so all team members had access to the data and we where able to merge the databases together using Jupyter Notebook. Once merged, we where able to select only the variables that where usefull for our analysis, create a machine learning model and create visualizations on Tableau public.
 
 ![65658928-9987-450d-b9ec-3ce94ba675ea](https://user-images.githubusercontent.com/108498940/203883553-f1b7ff22-5d54-4aa3-ba7f-8e771a50e90c.jpg)
 
-#### Once this was done, we where able to import our data into a Jupyter Notebook to start joining all databases using concatenate:
-
-![08ebba1f-646f-499d-a08c-74b5a4b320c2](https://user-images.githubusercontent.com/108498940/203883926-2084fbf1-55ab-48ad-88c8-09b4f665f4ba.jpg)
-
-#### Concatanate:
+#### Importing data into Jupyter Notebook to start merging all databases using concatenate:
 
 ![a15b8f2e-467d-40c7-88b2-37f1f34e242c](https://user-images.githubusercontent.com/108498940/203888358-4f0d954f-5134-4fb6-b134-e7d4bfc2ed58.jpg)
-
-
-#### Once all our databases where joined together we cleaned the data using pandas. We deleted columns that where not needed for our analysis, worked with NaNs and changed the :
-
-
 
 
 ## Machine Learning Model:
@@ -80,20 +71,14 @@ After choosing our topic and finding a database we wanted to work on, it was tim
 
 ## Dashboard:
 
-
-### Storyboard on Google Slides:
-
-https://docs.google.com/presentation/d/16Z3Wulr2pZyQmhmy__KBiV7Zt9pVuMMYErxm2aR9sDc/edit#slide=id.g1a2b0531266_0_39
-
-### Dashboard on Tableau Public:
-https://public.tableau.com/shared/B3ZTZZN7S?:display_count=n&:origin=viz_share_link
-
-### Tools:
-
 After going over our data, we decided that the best way to display our visualizations is using Tableau Public Storys. This is an interactive and easy way to visualize our data and interact with it. 
 
-### Interactive elements:
+Link to Dashboard on Tableau Public:
 
+https://public.tableau.com/shared/B3ZTZZN7S?:display_count=n&:origin=viz_share_link
+
+
+### Interactive elements:
 
 After going over our data, we decided that the best way to display our visualizations is using Tableau. Some ideas of possible visualizations we have right now are: 
 
@@ -111,3 +96,6 @@ These visualizations are interactive because if you click on any part of the vis
 Source: https://analyticsindiamag.com/how-to-create-interactive-public-dashboards-and-storylines-in-tableau/
 
 
+## Final presentation:
+
+https://docs.google.com/presentation/d/16Z3Wulr2pZyQmhmy__KBiV7Zt9pVuMMYErxm2aR9sDc/edit#slide=id.g1a2b0531266_0_39
