@@ -4,12 +4,12 @@
 	
 Flight Status Prediction
 
-## Reason why they selected their topic
+## Reason why they selected their topic:
 	
- We chose this topic because we want to know what attributes are the ones that are the most important to generate a delay in a certain flight. In that way, we will create a web page for users that will fill attributes and give them a forecast with machine learning if the flight will be “On Time” or “Delayed”
+We chose this topic because we want to know what attributes are the ones that are the most important to generate a delay in a certain flight. In that way, we will create a web page for users that will fill attributes and give them a forecast with machine learning if the flight will be “On Time” or “Delayed”
 
 
-## Questions they hope to answer with the data
+## Questions to answer:
 	
   Will a flight be “On Time” or “Delayed”?
   
@@ -53,9 +53,9 @@ After choosing our topic and finding a database we wanted to work on, it was tim
 
 ![65658928-9987-450d-b9ec-3ce94ba675ea](https://user-images.githubusercontent.com/108498940/203883553-f1b7ff22-5d54-4aa3-ba7f-8e771a50e90c.jpg)
 
-Importing data into Jupyter Notebook to start merging all databases using concatenate:
+Result of importing data into Jupyter Notebook to start merging all databases using concatenate:
 
-![a15b8f2e-467d-40c7-88b2-37f1f34e242c](https://user-images.githubusercontent.com/108498940/203888358-4f0d954f-5134-4fb6-b134-e7d4bfc2ed58.jpg)
+<img width="863" alt="Screen Shot 2022-12-06 at 21 35 43" src="https://user-images.githubusercontent.com/108498940/206082001-acd52c02-b2fa-4c7d-9dbc-9001d9836be6.png">
 
 
 ## Machine Learning Model:
@@ -103,6 +103,7 @@ Destinations with most delay map:
 
 ## Results/Conclusions
 
+Results from ML and conclusions!
 
 ## Final presentation:
 
