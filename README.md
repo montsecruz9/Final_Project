@@ -32,7 +32,7 @@ Alejandro Rabelo
 
 ## Technology
 
-- AWS’s S3
+- Database storage: AWS’s S3
 - ETL Process: Python with Jupyter Notebook
 - Deep Learning model: Scikit learn & Python in Google Collab
 - DashBoard: Tableau
