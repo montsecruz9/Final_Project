@@ -1,16 +1,13 @@
 # Final_Project
 
-## Selected Topic
+## Selected Topic:
 	
-  Flight Status Prediction
+Flight Status Prediction
 
 ## Reason why they selected their topic
 	
-  We chose this topic because we want to know what attributes are the ones that are the most important to generate a delay in a certain flight. In that way, we will create a web page for users that will fill attributes and give them a forecast with machine learning if the flight will be “On Time” or “Delayed”
+ We chose this topic because we want to know what attributes are the ones that are the most important to generate a delay in a certain flight. In that way, we will create a web page for users that will fill attributes and give them a forecast with machine learning if the flight will be “On Time” or “Delayed”
 
-## Description of their source of data
-	
-  Data was extracted from the Marketing Carrier On-Time Performance. Data contains information about flights like: Day of the Week, Day of the Month, Airline Carrier Code, Operating Airline, Origin Airport, Destination Airport, Departure Time, ArrDelay. Data will be stored in AWS's S3. 
 
 ## Questions they hope to answer with the data
 	
@@ -44,6 +41,10 @@ Triangle: Alejandro Rabelo
 ## Outline of the project:
 
 ### Database:
+
+Data was extracted from the Marketing Carrier On-Time Performance. Data contains information about flights like: Day of the Week, Day of the Month, Airline Carrier Code, Operating Airline, Origin Airport, Destination Airport, Departure Time, ArrDelay. Data will be stored in AWS's S3. 
+
+## ETL:
 
 #### After finding the database we wanted to work on, we where required to clean its columns and values in order to be able to use it for our analysis. Since our data was divided in different documents, we first uploaded everything into an S3 bucket on AWS. This way all team members will have access to them and it will make it posible to load our data into a Jupyter Notebook to clean the data:
 
