@@ -38,15 +38,18 @@ Triangle: Alejandro Rabelo
 - DashBoard: Tableau
 - Heroku 
 
-## Outline of the project:
 
-### Database:
+## Database:
 
-Data was extracted from the Marketing Carrier On-Time Performance. Data contains information about flights like: Day of the Week, Day of the Month, Airline Carrier Code, Operating Airline, Origin Airport, Destination Airport, Departure Time, ArrDelay. Data will be stored in AWS's S3. 
+Data was extracted from Kaggle but the information it contains comes from the Marketing Carrier On-Time Performance. Data contains more than 100 variables with information about flights like: Day of the Week, Day of the Month, Airline Carrier Code, Operating Airline, Origin Airport, Destination Airport, Departure Time, ArrDelay. Data will be stored in AWS's S3. 
+
+Link to data on Kaggle:
+
+https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022
 
 ## ETL:
 
-#### After finding the database we wanted to work on, we where required to clean its columns and values in order to be able to use it for our analysis. Since our data was divided in different documents, we first uploaded everything into an S3 bucket on AWS. This way all team members will have access to them and it will make it posible to load our data into a Jupyter Notebook to clean the data:
+After choosing our topic and finding a database we wanted to work on, it was time to begin the cleaning process in order to use it. Since our data was divided into different documents we where required to join them together to have all the data on one same document. To do this we first uploaded all data into an S3 Bucket on AWS. By doing so all team members had access to the data and we where able to merge the databases together using Jupyter Notebook. Once merged, we where able to select only the variables that where usefull for our analysis.
 
 ![65658928-9987-450d-b9ec-3ce94ba675ea](https://user-images.githubusercontent.com/108498940/203883553-f1b7ff22-5d54-4aa3-ba7f-8e771a50e90c.jpg)
 
