@@ -80,20 +80,6 @@ https://public.tableau.com/shared/B3ZTZZN7S?:display_count=n&:origin=viz_share_l
 
 ### Interactive elements:
 
-After going over our data, we decided that the best way to display our visualizations is using Tableau. Some ideas of possible visualizations we have right now are: 
-
-1.	Map with the locations of the airports with the most delays.
-2.	Heatmap of the days with the most delays.
-3.	Bar graph / heatmap with the day of the week with the most delays.
-4.	Bar graph with the hours of the day with the most delays.
-5.	Shape with the airlines with the most delays similar to the following:
-
-<img width="215" alt="image" src="https://user-images.githubusercontent.com/108498940/203885440-b462da1e-4ec0-48d9-b080-7c8b0da2b5a5.png">
-
-These visualizations are interactive because if you click on any part of the visualization, it will show you specific infromation like in the following example: 
-
-![Dashboard](https://user-images.githubusercontent.com/108498940/203888488-1c434bd2-c7e1-49c3-8f11-ebc7b0d8cdeb.gif)
-Source: https://analyticsindiamag.com/how-to-create-interactive-public-dashboards-and-storylines-in-tableau/
 
 
 ## Final presentation:
