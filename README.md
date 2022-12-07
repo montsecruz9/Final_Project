@@ -13,6 +13,9 @@ To convert our categorical data into indicators we used the pandas get_dummies()
 Our target is the 'Is_Delayed' column, and so our features are all the rest of the columns. 
 
 ## Splitting data into training and testing sets
+Data was split in the ratio 70:30
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.30, random_state=42)
 
 ## Model choice
-
+Decision Tree Classifier - 
