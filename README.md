@@ -17,7 +17,8 @@ To convert our categorical data into indicators we used the pandas get_dummies()
 ## Splitting data into training and testing sets
 Data was split in the ratio 70:30
 
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.30, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X,
+    y, random_state=1, test_size=0.3, stratify=y)
 
 ## Model choice
 After trial and error with several models, we decided on using the Logistic Regression model, as it was the only one that worked for us. 
