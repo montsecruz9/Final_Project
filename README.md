@@ -114,7 +114,7 @@ Destinations with most delay map:
 
 ## Results/Conclusions
 
-Results from ML and conclusions!
+The accuracy score from our model was 54.99%. Before reaching this score, we were getting accuracies of 1-2% and from 100%. After rearranging cells from our notebook, deleting and adding different columns, changing the features used, and oversampling the data, we reached that 54.99%. Still, we think that another different model could've help us reach a higher accuracy, as logistic regression is not the one appropiate for our dataset. 
 
 ## Final presentation:
 
