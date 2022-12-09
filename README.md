@@ -28,13 +28,11 @@ Paolo Zambrano
 
 Luis Canas
 
-Alejandro Rabelo
-
 ## Technology
 
-- Database storage: AWS’s S3
-- ETL Process: Python with Jupyter Notebook
-- Deep Learning model: Scikit learn & Python in Google Collab
+- Database storage: AWS’s S3 & RDS
+- ETL Process: Pandas from Python in Jupyter Notebook
+- Deep Learning model: Scikit learn & Pandas from Python in Jupyet Notebook
 - DashBoard: Tableau
 - Heroku 
 
